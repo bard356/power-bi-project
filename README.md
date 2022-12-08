@@ -1,2 +1,2 @@
 # power bi project
- Продуктовый дашборд в Power Bi
+ Продуктовый дашборд в Power BI
